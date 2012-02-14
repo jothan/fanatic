@@ -1,0 +1,7 @@
+ - Auto-detect GPUs and fan controls.
+ - Allow per-card and per-GPU settings.
+ - Move settings and magic numbers to a configuration file.
+ - Figure out PID settings appropriate for other cards besides the Radeon 6990.
+ - Make a proper python module and a setup.py.
+ - Drop the Twisted requirement as it is only used for debugging.
+ - Publish to PyPi.

@@ -1,0 +1,10 @@
+This is a fan control program for ATI/AMD GPUs. It uses the ATI ADL
+library to read temperatures and set fan speeds.
+
+Requirements:
+
+Python Twisted
+http://twistedmatrix.com/
+
+Python ADL3 bindings
+http://pypi.python.org/pypi/adl3
