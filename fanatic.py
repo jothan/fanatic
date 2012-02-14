@@ -130,7 +130,7 @@ class AdlFan(object):
     
 
 class FanControl(AdlFan):
-    # Setpoins a.k.a. target temperatures
+    # Setpoints a.k.a. target temperatures
     SP_OFFLINE = 60.
     SP_ONLINE = 81.
 
